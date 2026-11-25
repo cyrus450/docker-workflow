@@ -2,4 +2,4 @@ FROM ubuntu:22.04
 
 RUN apt-get update
 
-CMD echo "Hello from Docker Hub"
+CMD echo "Hello from Docker Hub - version 2"
